@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  ListIt
+
+  Created by sara ayed albogami on 18/06/1444 AH.
+  
+*/
+
+"Shopping Lists" = "قائمة التسوق";
+"SuperMarket List" = "قائمة البقالة";
+"Mall List" = "قائمة المركز التجاري";
+"Pharmacy List" = "قائمة الصيدلية";
+"Car Equipment List" = "قائمة معدات السيارة";
+"Fruit" = "فواكة";
+"Apple" = "تفاح";
+"Orange" = "برتقال";
+"Banana" = "موز";
+"SAVE" = "حفظ";
+"CANCLE" = "إلغاء";
+"Add" = "إضافة";
+"Enter item name" = "أدخل اسم العنصر";
+"Select Category" = "اختر الفئة";
+"Add Item" = "اضافة عنصر";
+"Alert" = "تحذير";
+"No text field should be empty" = "يجب ألا يكون هناك حقل نصي فارغ";
+"Ok" = "موافق";
+"Fruits" = "فواكة";
+"Vegetables" = "خضروات";
+"Spices" = "بهارات";
+"Personal Care" = "عناية شخصية";
+"Household" = "المنزل";
+"Other" = "أخرى";
+"Welcome to ListIt" = " مرحبا بك في قائمة التسوق";
+"Make shopping trip comfortable" = "اجعل رحلة التسوق مريحة";
+"Easliy find your way around the store
+using the categorized grocery list" = "اعثر بسهولة على طريقك في المتجر باستخدام قائمة التسوق المصنفة";
+"Avoid impulse buying" = "تجنب الشراء الاندفاعي";
+"Plan and stick to your
+shopping list to save money" = "خطط والتزم بقائمة التسوق الخاصة بك لتوفير المال";
+"Start" = "ابدأ";
+"Grabes" = "عنب";
+"Broccoli" = "بروكلي";
+"Lettuce" = "خس";
+"Pepper" = "فلفل";
+"Tomatos" = "طماطم";
+"Garlic" = "ثوم";
+"Carrot" = "جزر ";
+"Avocado" = "افوكادو";
+"watermelon" = "بطيخ ";
+"Shampoo" = "شامبو";
+"Soap" = "صابون";
+"Toothpaste" = "معجون أسنان";
+"Lotion" = "مرطب";
+"SunScreen" = "واقي شمس";
+"Deodorant" = "مزيل عرق";
+"Softener" = "منعم ملابس";
+"Oven Cleaner" = "منظف ​​الأفران";
+"Gloves" = "قفازات";
+"Sponge" = "اسفنجة";
+"Dish soap" = "صابون أطباق";

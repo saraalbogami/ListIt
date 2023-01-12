@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  ListIt
+
+  Created by sara ayed albogami on 18/06/1444 AH.
+  
+*/
+
+
+"Shopping Lists" = "Shopping Lists";
+"SuperMarket List" = "Supermarket List";
+"Mall List" = "Mall List";
+"Pharmacy List" = "Pharmacy List";
+"Car Equipment List" = "Car Equipment List";
+"Fruit" = "Fruit";
+"Apple" = "Apple";
+"Orange" = "Orange";
+"Banana" = "Banana";
+"SAVE" = "SAVE";
+"CANCLE" = "CANCLE";
+"Add" = "Add";
+"Enter item name" = "Enter item name";
+"Select Category" = "Select Category";
+"Add Item" = "Add Item";
+"Alert" = "Alert";
+"No text field should be empty" = "No text field should be empty";
+"Ok" = "Ok";
+"Fruits" = "Fruits";
+"Vegetables" = "Vegetables";
+"Spices" = "Spices";
+"Personal Care" = "Personal Care";
+"Households" = "Households";
+"Other" = "Other";
+"Welcome to ListIt" = "Welcome to ListIt";
+"Make shopping trip comfortable" = "Make shopping trip comfortable";
+"Easliy find your way around the store
+using the categorized grocery list" = "Easliy find your way around the store
+using the categorized grocery list";
+"Avoid impulse buying" = "Avoid impulse buying";
+"Plan and stick to your
+shopping list to save money" = "Plan and stick to your
+shopping list to save money";
+"Start" = "Start";
+"Grabes" = "Grabes";
+"Broccoli" = "Broccoli";
+"Lettuce" = "Lettuce";
+"Pepper" = "Pepper";
+"Tomatos" = "Tomatos";
+"Garlic" = "Garlic";
+"Carrot" = "Carrot";
+"Avocado" = "Avocado";
+"watermelon" = "watermelon";
+"Shampoo" = "Shampoo";
+"Soap" = "Soap";
+"Toothpaste" = "Toothpaste";
+"Lotion" = "Lotion";
+"SunScreen" = "SunScreen";
+"Deodorant" = "Deodorant";
+"Softener" = "Softener";
+"Oven Cleaner" = "Oven Cleaner";
+"Gloves" = "Gloves";
+"Sponge" = "Sponge";
+"Dish soap" = "Dish soap";
