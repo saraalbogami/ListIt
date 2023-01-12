@@ -1,4 +1,5 @@
-
+#ListIT Logo:
+<img width="118" alt="logo" src="https://user-images.githubusercontent.com/116543994/212022776-cd6eda0e-6254-47b0-85fd-1054b7485075.png">
 # ListIt:
 ListIt is an app that made to make an inclusive solution that help a shoppers from different ages who want to organized their shopping list by enable them to choose from the list provided in the app and organized the list based on different categories so that they have a comfortable shopping trip.
 # Technologies & Tools:
