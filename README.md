@@ -6,9 +6,18 @@
 
 ListIt is an app that made to make an inclusive solution that help a shoppers from different ages who want to organized their shopping list by enable them to choose from the list provided in the app and organized the list based on different categories so that they have a comfortable shopping trip.
 
-# TECHNOLOGIES & TOOLS:
+# Challenge Statement:
 
-. accessebility (Voiceover).
+Make an inclusive solution that improving the shopping experience for all ages.
+
+#Solution Concept:
+
+An appropriate environment for shoppers who want to organized their shopping list so that they have a comfortable shopping trip.
+
+# Technologies & Tools:
+. xcode - Swiftui
+
+. Accessebility (Voiceover).
 
 . CoreData.
 
