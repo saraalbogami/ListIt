@@ -10,7 +10,7 @@ ListIt is an app that made to make an inclusive solution that help a shoppers fr
 
 Make an inclusive solution that improving the shopping experience for all ages.
 
-#Solution Concept:
+# Solution Concept:
 
 An appropriate environment for shoppers who want to organized their shopping list so that they have a comfortable shopping trip.
 
